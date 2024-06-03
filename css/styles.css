@@ -1,0 +1,90 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Cor de fundo clara */
+    text-align: center; /* Centralizar conteúdo */
+}
+
+header {
+    background: #005fa3; /* Azul escuro */
+    color: #ffffff; /* Branco */
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li.logo {
+    margin-right: auto; /* Empurrar logo para a esquerda */
+}
+
+nav ul li a {
+    color: #ffffff; /* Branco */
+    text-decoration: none;
+    padding: 0.5em 1em;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: #003d66; /* Azul mais escuro para hover */
+    border-radius: 5px;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+section img {
+    width: 100%;
+    max-width: 800px; /* Ajusta a largura máxima */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block;
+    margin: 1em auto; /* Centralizar imagem */
+    border: 4px solid #000000; /* Borda preta */
+}
+
+footer {
+    background: #005fa3; 
+    color: #ffffff; 
+    text-align: center;
+    padding: 1em 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+footer ul li a {
+    color: #ffffff; 
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 120px; 
+    height: auto; 
+}
