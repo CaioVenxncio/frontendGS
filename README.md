@@ -1,4 +1,4 @@
-# Relatos de Poluição Marítima
+# Front End Global Solution FIAP 2024 -  Voice of the Oceans | Voz dos Oceanos
 
 Este é um site fictício criado como parte de um projeto acadêmico para abordar a questão da poluição marítima. O site tem o objetivo de conscientizar e informar sobre os impactos da poluição nos oceanos e na vida marinha, além de incentivar a denúncia de incidentes de poluição.
 
